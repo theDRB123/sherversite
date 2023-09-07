@@ -16,4 +16,9 @@ List of all the features to be added
 
 7. (drb)*Ability to host bots / websites on the server ?? just an idea*
 
-8. 
+8. (pkb)Security- in case someone uploads a harmful file knowingly or unknowingly. 》Solution: antivirus or else the files of users should be always quarantined.
+
+9. Security- to prevent hacking or bypass login-> no one can run any script, etc. (Not sure about it. Check it #DBR #Bhendi)
+
+10. Files of every user should be kept separately and can be shared with selected or all users with permission.
+
